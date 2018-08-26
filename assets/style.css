@@ -1,0 +1,53 @@
+/* Crystal image size */
+.black, .yellow, .green, .purple {
+    width: 200px;
+    height: 250px;
+    }
+    /* Overall background color */
+    body {
+        background-color: black;
+    }
+    /* Game title style */
+    h1 {
+        font-family: Montserrat;
+        font-size: 70px;
+        text-align: center;
+        font-weight: bold;
+        color: white;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    /* Instructions style */
+    .instructions {
+        font-family: Montserrat;
+        font-size: 25px;
+        text-align: center;
+        color: rgb(224, 209, 209);
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    
+    /* Game Data Headings Style */
+    .target, .Wins, .Losses, .score {
+        font-family: Montserrat;
+        font-size: 50px;
+        text-align: center;
+        color: white;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .Wins, .Losses {
+        text-align: center;
+        font-size: 35px;
+    }
+    
+    .score {
+        margin-top: 30px;
+        text-align: center;
+    }
+    
+    /* Active data style */
+    .gameData {
+        color: white;
+        font-family: 'Montserrat', cursive;
+    }
