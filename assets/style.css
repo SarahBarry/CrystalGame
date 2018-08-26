@@ -3,10 +3,12 @@
     width: 200px;
     height: 250px;
     }
+
     /* Overall background color */
     body {
         background-color: black;
     }
+
     /* Game title style */
     h1 {
         font-family: Montserrat;
@@ -17,6 +19,7 @@
         margin-top: 10px;
         margin-bottom: 10px;
     }
+
     /* Instructions style */
     .instructions {
         font-family: Montserrat;
@@ -36,6 +39,7 @@
         margin-top: 10px;
         margin-bottom: 10px;
     }
+    
     .Wins, .Losses {
         text-align: center;
         font-size: 35px;
